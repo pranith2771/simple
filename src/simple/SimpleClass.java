@@ -3,7 +3,7 @@ package simple;
 public class SimpleClass {
 
 	public static void main(String[] args) {
-		// shir
+		// changing it from remote
 
 	}
 
