@@ -1,2 +1,7 @@
 added from local
+<<<<<<< HEAD
 still havent merged
+=======
+now adding from remote
+>>>>>>> branch 'master' of https://github.com/pranith2771/simple.git
+now it will add
